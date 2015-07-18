@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+hackathon
+db.slite3
+.DS_Store
